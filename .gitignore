@@ -1,0 +1,5 @@
+environment/
+db.sqlite3
+todo_api/__pycache__
+todo/__pycache__
+notes.txt
